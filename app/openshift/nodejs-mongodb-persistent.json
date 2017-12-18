@@ -388,7 +388,7 @@
                   "limits": {
                     "memory": "${MEMORY_MONGODB_LIMIT}"
                   }
-                },
+                }
               }
             ],
           }
