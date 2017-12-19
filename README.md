@@ -1,4 +1,4 @@
-# Jenkins on OpenShift - test
+# Jenkins on OpenShift
 
 **Using Jenkins to Control Application Promotion between OpenShift Clusters**
 
