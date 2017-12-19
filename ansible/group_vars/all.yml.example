@@ -8,7 +8,7 @@ source_repo_branch: master
 app_template_path: app/openshift/nodejs-mongodb-persistent.json
 
 # app_name is used to name build and deployment configurations
-app_name: nodejs-mongodb-ephemeral
+app_name: nodejs-mongo-persistent
 app_base_tag: nodejs:6
 
 # ----------------------
